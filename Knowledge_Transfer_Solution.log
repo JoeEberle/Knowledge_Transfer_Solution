@@ -1,9 +1,9 @@
-2024-10-13 21:37:32,403 - INFO - START Knowledge_Transfer_Solution =============================================
-2024-10-13 21:37:32,403 - INFO - START Knowledge_Transfer_Solution Start Time = 2024-10-13 21:37:32
-2024-10-13 21:37:32,403 - INFO - Knowledge_Transfer_Solution Step 0 - Initialize the configuration file parser
-2024-10-13 21:37:32,404 - INFO - Process Knowledge_Transfer_Solution Step 0 - Initializing and starting Logging Process.
-2024-10-13 21:37:32,511 - INFO - PERFORMANCE Knowledge_Transfer_Solution The total process duration was:0.11
-2024-10-13 21:37:32,511 - INFO - PERFORMANCE Knowledge_Transfer_Solution Stop Time = 2024-10-13 21:37:32
-2024-10-13 21:37:32,512 - INFO - PERFORMANCE Knowledge_Transfer_Solution Short process duration less than 3 Seconds:0.11
-2024-10-13 21:37:32,512 - INFO - PERFORMANCE Knowledge_Transfer_Solution Performance optimization is not reccomended
-2024-10-13 21:37:32,512 - INFO - END Knowledge_Transfer_Solution =============================================
+2024-10-13 22:00:20,191 - INFO - START Knowledge_Transfer_Solution =============================================
+2024-10-13 22:00:20,192 - INFO - START Knowledge_Transfer_Solution Start Time = 2024-10-13 22:00:20
+2024-10-13 22:00:20,192 - INFO - Knowledge_Transfer_Solution Step 0 - Initialize the configuration file parser
+2024-10-13 22:00:20,192 - INFO - Process Knowledge_Transfer_Solution Step 0 - Initializing and starting Logging Process.
+2024-10-13 22:00:20,297 - INFO - PERFORMANCE Knowledge_Transfer_Solution The total process duration was:0.11
+2024-10-13 22:00:20,297 - INFO - PERFORMANCE Knowledge_Transfer_Solution Stop Time = 2024-10-13 22:00:20
+2024-10-13 22:00:20,297 - INFO - PERFORMANCE Knowledge_Transfer_Solution Short process duration less than 3 Seconds:0.11
+2024-10-13 22:00:20,298 - INFO - PERFORMANCE Knowledge_Transfer_Solution Performance optimization is not reccomended
+2024-10-13 22:00:20,298 - INFO - END Knowledge_Transfer_Solution =============================================
