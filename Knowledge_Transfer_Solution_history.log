@@ -124,3 +124,45 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-17 00:38:51,325 - INFO - START Knowledge_Transfer_Solution =============================================
+2024-10-17 00:38:51,325 - INFO - START Knowledge_Transfer_Solution Start Time = 2024-10-17 00:38:51
+2024-10-17 00:38:51,325 - INFO - Knowledge_Transfer_Solution Step 0 - Initialize the configuration file parser
+2024-10-17 00:38:51,326 - INFO - Process Knowledge_Transfer_Solution Step 0 - Initializing and starting Logging Process.
+2024-10-17 00:38:51,404 - INFO - PERFORMANCE Knowledge_Transfer_Solution The total process duration was:0.08
+2024-10-17 00:38:51,404 - INFO - PERFORMANCE Knowledge_Transfer_Solution Stop Time = 2024-10-17 00:38:51
+2024-10-17 00:38:51,405 - INFO - PERFORMANCE Knowledge_Transfer_Solution Short process duration less than 3 Seconds:0.08
+2024-10-17 00:38:51,405 - INFO - PERFORMANCE Knowledge_Transfer_Solution Performance optimization is not reccomended
+2024-10-17 00:38:51,405 - INFO - END Knowledge_Transfer_Solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-17 00:39:49,496 - INFO - START Knowledge_Transfer_Solution =============================================
+2024-10-17 00:39:49,497 - INFO - START Knowledge_Transfer_Solution Start Time = 2024-10-17 00:39:49
+2024-10-17 00:39:49,497 - INFO - Knowledge_Transfer_Solution Step 0 - Initialize the configuration file parser
+2024-10-17 00:39:49,497 - INFO - Process Knowledge_Transfer_Solution Step 0 - Initializing and starting Logging Process.
+2024-10-17 00:39:49,572 - INFO - PERFORMANCE Knowledge_Transfer_Solution The total process duration was:0.08
+2024-10-17 00:39:49,572 - INFO - PERFORMANCE Knowledge_Transfer_Solution Stop Time = 2024-10-17 00:39:49
+2024-10-17 00:39:49,572 - INFO - PERFORMANCE Knowledge_Transfer_Solution Short process duration less than 3 Seconds:0.08
+2024-10-17 00:39:49,572 - INFO - PERFORMANCE Knowledge_Transfer_Solution Performance optimization is not reccomended
+2024-10-17 00:39:49,572 - INFO - END Knowledge_Transfer_Solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-17 00:43:54,818 - INFO - START Knowledge_Transfer_Solution =============================================
+2024-10-17 00:43:54,818 - INFO - START Knowledge_Transfer_Solution Start Time = 2024-10-17 00:43:54
+2024-10-17 00:43:54,818 - INFO - Knowledge_Transfer_Solution Step 0 - Initialize the configuration file parser
+2024-10-17 00:43:54,819 - INFO - Process Knowledge_Transfer_Solution Step 0 - Initializing and starting Logging Process.
+2024-10-17 00:43:54,893 - INFO - PERFORMANCE Knowledge_Transfer_Solution The total process duration was:0.08
+2024-10-17 00:43:54,893 - INFO - PERFORMANCE Knowledge_Transfer_Solution Stop Time = 2024-10-17 00:43:54
+2024-10-17 00:43:54,893 - INFO - PERFORMANCE Knowledge_Transfer_Solution Short process duration less than 3 Seconds:0.08
+2024-10-17 00:43:54,893 - INFO - PERFORMANCE Knowledge_Transfer_Solution Performance optimization is not reccomended
+2024-10-17 00:43:54,894 - INFO - END Knowledge_Transfer_Solution =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
