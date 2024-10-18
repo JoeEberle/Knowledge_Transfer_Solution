@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Knowledge Transfer Solution - Knowledge Transfer for AI Solutions - Transfering REPOS. ![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Knowledge Transfer Solution 
+    ## Knowledge Transfer for AI Solutions - Transfering REPOS. 
+    ![Image image_filename](code.png)
 
 Using Jupyter notebooks and well-documented `README.md` files significantly enhances knowledge sharing, collaboration, and knowledge transfer. Jupyter notebooks allow for a blend of executable code, visual outputs, and explanatory text, making it easy for collaborators to understand the logic behind the code and experiment with it interactively. `README.md` files provide essential project information, instructions, and context for how to use and understand the repository. Together, these tools help communicate the project's purpose and functionality, making it accessible for both new and experienced team members.
 
@@ -99,7 +102,7 @@ To get started with the **Knowledge Transfer Solution** solution repository, fol
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    ![Image image_filename](solution_features.png)![Image image_filename](notebook_features.png)
+    ## Getting Started## Getting Started![Image image_filename](solution_features.png)## Notebook Features ![Image image_filename](notebook_features.png)
 ## List of Figures
  ![additional_image](Knowledge_Transfer_Solution.png)  <br>![additional_image](rebranding.png)  <br>![additional_image](transfering ownership.png)  <br>
     
