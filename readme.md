@@ -4,7 +4,25 @@
 
 ## Knowledge Transfer for AI Solutions - Transfering REPOS. 
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 
 Using Jupyter notebooks and well-documented `README.md` files significantly enhances knowledge sharing, collaboration, and knowledge transfer. Jupyter notebooks allow for a blend of executable code, visual outputs, and explanatory text, making it easy for collaborators to understand the logic behind the code and experiment with it interactively. `README.md` files provide essential project information, instructions, and context for how to use and understand the repository. Together, these tools help communicate the project's purpose and functionality, making it accessible for both new and experienced team members.
 
@@ -95,7 +113,13 @@ This setup ensures that each repository is self-contained, with all necessary co
 
 
 
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
