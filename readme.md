@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Knowledge Transfer Solution - Knowledge Transfer for AI Solutions - Transfering REPOS. 
-Knowledge Transfer for AI Solutions - Transfering REPOS. 
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Knowledge Transfer Solution - Knowledge Transfer for AI Solutions - Transfering REPOS. ![Image image_filename](code.png)
 
 Using Jupyter notebooks and well-documented `README.md` files significantly enhances knowledge sharing, collaboration, and knowledge transfer. Jupyter notebooks allow for a blend of executable code, visual outputs, and explanatory text, making it easy for collaborators to understand the logic behind the code and experiment with it interactively. `README.md` files provide essential project information, instructions, and context for how to use and understand the repository. Together, these tools help communicate the project's purpose and functionality, making it accessible for both new and experienced team members.
 
@@ -96,16 +89,14 @@ This setup ensures that each repository is self-contained, with all necessary co
 
 
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Knowledge Transfer Solution** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ![Image image_filename](solution_features.png)
 ## Solution Features
 - Easy to understand and use  
 - Easily Configurable 
@@ -113,6 +104,9 @@ To get started with the **Knowledge Transfer Solution** solution repository, fol
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -122,13 +116,11 @@ To get started with the **Knowledge Transfer Solution** solution repository, fol
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
- ![additional_image](Knowledge_Transfer_Solution.png)  <br>![additional_image](rebranding.png)  <br>![additional_image](soution_features.png)  <br>![additional_image](transfering ownership.png)  <br>
+## List of Figures
+ ![additional_image](Knowledge_Transfer_Solution.png)  <br>![additional_image](rebranding.png)  <br>![additional_image](solution_features.png)  <br>![additional_image](transfering ownership.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
