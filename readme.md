@@ -138,13 +138,3 @@ To get started with the **Knowledge Transfer Solution** solution repository, fol
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](Knowledge_Transfer_Solution.png)  <br>![additional_image](rebranding.png)  <br>![additional_image](transfering ownership.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
