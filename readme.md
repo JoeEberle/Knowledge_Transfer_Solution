@@ -12,7 +12,7 @@
 
 Using Jupyter notebooks and well-documented `README.md` files significantly enhances knowledge sharing, collaboration, and knowledge transfer. Jupyter notebooks allow for a blend of executable code, visual outputs, and explanatory text, making it easy for collaborators to understand the logic behind the code and experiment with it interactively. `README.md` files provide essential project information, instructions, and context for how to use and understand the repository. Together, these tools help communicate the project's purpose and functionality, making it accessible for both new and experienced team members.
 
-When transferring a GitHub repository's ownership, all code, documentation, issue tracking, and project history are successfully transferred to the new owner. The `README.md` and other documentation within the repo continue to provide context, ensuring the code remains usable and understandable. Along with the repo, collaborators, branches, and version histories are preserved, allowing the new owner to seamlessly continue the project’s development while maintaining full knowledge of prior work.
+When transferring a GitHub repository's ownership, all code, documentation, issue tracking, and project history are successfully transferred to the new owner. The `README.md` and other documentation within the repo continue to provide context, ensuring the code remains usable and understandable. Along with the repo, collaborators, branches, and version histories are preserved, allowing the new owner to seamlessly continue the project�s development while maintaining full knowledge of prior work.
 
 
 ## Process for Transfering repositories and facilitating knowledge ownership 
@@ -32,7 +32,7 @@ This process is used to easily transfer knowledge and code for one company to an
    I renamed the repository from `solution_name` to `solution_name_sn` to reflect the updated solution and distinguish it from the original.
 
 5. **Rebrand the Project**:  
-   Rebrand  the project and solution to align with the target company’s brand image and likeness. This included updating logos, color schemes, and naming conventions to match the company’s branding. Additionally, I transferred any relevant contact points and URLs to the target company.
+   Rebrand  the project and solution to align with the target company�s brand image and likeness. This included updating logos, color schemes, and naming conventions to match the company�s branding. Additionally, I transferred any relevant contact points and URLs to the target company.
 
 6. **Make the Repository Private and Invited Collaborators**:  
    Set the repository private to protect its content and then invited the target company as collaborators, allowing them access to the repository.
@@ -48,7 +48,7 @@ This version now includes the rebranding step and transfer of contact points and
 
 ## How notebook and solution features help facilitate knowledge transfer. 
 
-Here’s the corrected list with each feature contributing to the **knowledge transfer process**:
+Here�s the corrected list with each feature contributing to the **knowledge transfer process**:
 
 - **Notebook Features**: Provides a structured, interactive environment that allows users to easily follow and modify the workflow, facilitating understanding.
 
@@ -60,9 +60,9 @@ Here’s the corrected list with each feature contributing to the **knowledge tr
 
 - **Includes Talking Code**: An option that uses a simulated voice to explain the major steps of the code while it runs, providing real-time, spoken guidance. This makes the learning process more engaging and accessible for users unfamiliar with the code.
 
-- **Self-Logging**: Automatically logs key actions and outputs, making it easier for others to track and understand the code’s behavior without diving into the codebase.
+- **Self-Logging**: Automatically logs key actions and outputs, making it easier for others to track and understand the code�s behavior without diving into the codebase.
 
-- **Self-Debugging**: Enhances Python’s standard debugging to simplify the identification and resolution of issues, helping others quickly troubleshoot and learn from errors.
+- **Self-Debugging**: Enhances Python�s standard debugging to simplify the identification and resolution of issues, helping others quickly troubleshoot and learn from errors.
 
 - **Low Code or No Code**: Solutions are typically under 50 lines of code, reducing complexity and making it easier for others to grasp the core logic and make modifications.
 
@@ -91,7 +91,7 @@ This refined list now clearly describes how each feature enhances the **knowledg
 
 - **Data Storyboard**: The repository contains a **data storyboard** that visually explains all formulas and logic used within the solution, helping users understand how data is processed and interpreted in the context of the solution.
 
-- **Test Results**: Results from running the test framework are documented within the repository, offering insights into the solution’s correctness and robustness. These test results serve as validation that the code works as expected.
+- **Test Results**: Results from running the test framework are documented within the repository, offering insights into the solution�s correctness and robustness. These test results serve as validation that the code works as expected.
 
 ---
 
